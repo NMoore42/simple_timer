@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    color: white;
+}
+
+h1 {
+  font-size: 100px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+h2 {
+  font-size: 50px;
+  border: 5px solid white;
+  margin-left: 500px;
+  margin-right: 500px;
+  margin-bottom: 0px;
+}
+
+#count {
+  font-size: 500px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.rest {
+  background-image: linear-gradient(-90deg, #9fb8ad, red, orange);
+}
+
+.workout {
+  background-image: linear-gradient(-90deg, #9fb8ad, #1fc8db, #2cb5e8);
+}
